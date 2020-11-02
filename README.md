@@ -24,4 +24,12 @@ this is horizontal line
 
 ![alt text](TENET.png)
 
+### Table
+
+| Syntax | Description |
+| -------------| --------|
+| Header | Title |
+| Paragraph | Text|
+| apple | banana|
+
 
