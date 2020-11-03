@@ -54,6 +54,9 @@
 - __I interested in..__
    - `Linux` , `Unity`,  `Machine Learning .. Deep Learning` :computer:
 
+        -  Linux :  <img src = "linux.png" width="100px">
+
+
 
 
 
@@ -165,7 +168,7 @@
         \begin{align*}
         \text{행렬 $A$의 column개수는 2, 행렬 $B$의 row개수는 2이므로, 곱할 수 있다. 따라서,}
         \end{align*}
-        
+
         \begin{align*}
         C &= AB\in\mathbb{R}^{2\times 2} \\
         C_{ij} &= \sum_{k=1}^n A_{ik}B_{kj} \quad\text{(i와 j는 고정수이다.)}\\
