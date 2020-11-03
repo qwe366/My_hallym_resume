@@ -176,6 +176,7 @@
     - 프로젝트 목적
         ```
         수학 기호, 수학 공식 등 쉽게 수식을 작성할 수 있기 위함
+        ```
     - Over Leaf :leaves:
 
         > [Over Leaf](ko.overleaf.com)  _latex편집기_
@@ -194,24 +195,22 @@
         C_{ij} &= \sum_{k=1}^n A_{ik}B_{kj} \quad\text{(i와 j는 고정수이다.)}\\
         \text{정의에 의해서, $C$ 즉}\quad AB &= \begin{bmatrix} 3 & 4 \\ 7 & 10\end{bmatrix}
         \end{align*}
+        ```
 
 ---
 ## Plans.. :calendar:
 
-__Subjects__
+__Linux__
+- 운영체제 및 네트워크 수강 :pencil2:
+- AWS EC2 를 이용한 서버 구축
 
-    Linux
-    - 운영체제 및 네트워크 수강 :pencil2:
-    - AWS EC2 를 이용한 서버 구축
+ __Machine Learning__
+- Standford cs231n 수강 :closed_book:
 
-    Machine Learning
-    - Standford cs231n 수강 :closed_book:
-
-    Unity
-    - 3인칭 FPS 슈팅 게임 제작
+ __Unity__
+ - 3인칭 FPS 슈팅 게임 제작
 
 
 __Next Semester__
-
-    캡스톤 디자인 
-    장기 현장 실습 
+- 캡스톤 디자인 
+- 장기 현장 실습 
