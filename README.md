@@ -205,7 +205,7 @@ __Linux__
 - AWS EC2 를 이용한 서버 구축
 
  __Machine Learning__
-- Standford cs231n 수강 :closed_book:
+- [Standford cs231n](https://youtu.be/3QjGtOlIiVI) 수강 :closed_book:
 
  __Unity__
  - 3인칭 FPS 슈팅 게임 제작
