@@ -113,6 +113,7 @@
     ```
 
   - 데이터 분석 
+
      ![data_anayl](data.png)
 
   - 모델
@@ -142,6 +143,7 @@
 
 
   - ERROR ANALYSIS (RANDOM FOREST CLASSIFIER 로 한 결과)
+  
 
      ![random_anal](anal.png)
 
