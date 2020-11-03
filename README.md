@@ -1,24 +1,24 @@
 # Hi there :blue_heart:
 
-## welcome :exclamation: I'm So young.... 
+## <center>  welcome :exclamation: I'm So young.... </center>
 
 ---
 - name : Yoon So young 
 - age : 23 (Korean age)
 - major : 빅데이터전공 
-  - _`What to learn..:thought_balloon:`_
+  - _`What to learn..`_:thought_balloon:
 
     - if you get more information, click this  <u>[_link_](https://www.hallym.ac.kr/hallym_univ/sub01/cP14/sCP11.html)</u>
 
 
 - hobby : 음악듣기:headphones:
-    - my play list:star:
+    - **My Play List**:star:
 
-    | `Singer` | `Song` |
+    | <sapn style="color:yellow">Singer</span> | <sapn style="color:yellow">Song</span> |
     | -------------| --------|
-    | 죠지 | _boat_ |
-    | lany | _Malibu Nights_|
-    | 안다, 프라이머리(Primary) | _The open boat (feat.colde)_|
+    | _죠지_ | _boat_ |
+    | _lany_ | _Malibu Nights_|
+    | _안다, 프라이머리(Primary)_ | _The open boat (feat.colde)_|
 
 
 
