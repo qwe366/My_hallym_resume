@@ -146,5 +146,5 @@
   - ERROR ANALYSIS (RANDOM FOREST CLASSIFIER 로 한 결과)
 
 
-     ![random_anal](anal.png)
+     ![random_anal](analy1.png)
 
