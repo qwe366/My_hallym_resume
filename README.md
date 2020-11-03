@@ -54,7 +54,23 @@
 - __I interested in..__
    - `Linux` , `Unity`,  `Machine Learning .. Deep Learning` :computer:
 
-        -  Linux :  <img src = "linux.png" width="100px">
+        -  Linux   <img src = "linux.png" width="100px">
+            ```
+            리눅스는 리누스 토르발스가 처음 출시한 운영 체제 커널인 리눅스 커널에 기반을 둔 오픈 소스 유닉스 계열 운영 체제 계열이다. 
+            (출처 : https://ko.wikipedia.org/wiki/%EB%A6%AC%EB%88%85%EC%8A%A4)
+            ```
+        - Unity    <img src = "unity.png" width="100px">
+            ```
+            유니티는 3D 및 2D 비디오 게임의 개발 환경을 제공하는 게임 엔진이자, 3D 애니메이션과 건축 시각화, 가상현실 등 인터랙티브 콘텐츠 제작을 위한 통합 저작 도구이다. 
+            (출처 : https://ko.wikipedia.org/wiki/%EC%9C%A0%EB%8B%88%ED%8B%B0_(%EA%B2%8C%EC%9E%84_%EC%97%94%EC%A7%84)
+            ```
+
+        -  Tensor Flow   <img src = "tensor.png" width="100px">
+            ```
+            텐서플로는 다양한 작업에대해 데이터 흐름 프로그래밍을 위한 오픈소스 소프트웨어 라이브러리이다. 심볼릭 수학 라이브러리이자, 인공 신경망같은 기계 학습 응용프로그램에도 사용된다. 
+            (출처 : https://ko.wikipedia.org/wiki/%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C)
+            ```
+
 
 
 
