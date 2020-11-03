@@ -14,7 +14,7 @@
 - hobby : 음악듣기:headphones:
     - **My Play List**:star:
 
-    | <sapn style="color:yellow">Singer</span> | <sapn style="color:yellow">Song</span> |
+    | <span style="color:yellow">Singer</span> | <span style="color:yellow">Song</span> |
     | -------------| --------|
     | _죠지_ | _boat_ |
     | _lany_ | _Malibu Nights_|
