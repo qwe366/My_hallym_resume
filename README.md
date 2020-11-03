@@ -198,19 +198,20 @@
 ---
 ## Plans.. :calendar:
 
-```
-Linux
-- 운영체제 및 네트워크 수강 :pencil2:
-- AWS EC2 를 이용한 서버 구축
+__Subjects__
 
-Machine Learning
- - Standford cs231n 수강 :closed_book:
+    Linux
+    - 운영체제 및 네트워크 수강 :pencil2:
+    - AWS EC2 를 이용한 서버 구축
 
- Unity
-  - 3인칭 FPS 슈팅 게임 제작
-```
+    Machine Learning
+    - Standford cs231n 수강 :closed_book:
 
-```
-캡스톤 디자인 
-장기 현장 실습 
-```
+    Unity
+    - 3인칭 FPS 슈팅 게임 제작
+
+
+__Next Semester__
+
+    캡스톤 디자인 
+    장기 현장 실습 
