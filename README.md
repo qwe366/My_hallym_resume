@@ -1,20 +1,51 @@
 # Hi there :blue_heart:
 
-## <center>  welcome :exclamation: I'm So young.... </center>
+## welcome :exclamation: I'm So young....
 
 ---
-- name : Yoon So young 
-- age : 23 (Korean age)
-- major : 빅데이터전공 
+- __Name__ : Yoon So young 
+- __Age__ : 23 (Korean age)
+- __Major__ : 빅데이터전공 
   - _`What to learn..`_:thought_balloon:
 
-    - if you get more information, click this  <u>[_link_](https://www.hallym.ac.kr/hallym_univ/sub01/cP14/sCP11.html)</u>
+    - If you get more information, 'click this  <u>[_link_](https://www.hallym.ac.kr/hallym_univ/sub01/cP14/sCP11.html)</u>'
+    
+- __Available Languages__
+   - JAVA
+
+     ```java
+     System.out.println("Hello Java");
+     ```
+   - C
+
+     ```c
+     printf("Hello C");
+     ```
+
+  - C++
+
+     ```c++
+     cout << "Hello C++!" << endl; 
+     ```
+
+  - Python
+
+     ```python
+     print("Hello Python")
+     ``` 
+  - C#
+
+     ```cs
+     Debug.WriteLine("Hello C#");
+     ```
 
 
-- hobby : 음악듣기:headphones:
+
+- __Hobby__ : 음악듣기:headphones:
+
     - **My Play List**:star:
 
-    | <span style="color:yellow">Singer</span> | <span style="color:yellow">Song</span> |
+    | Singer | Song |
     | -------------| --------|
     | _죠지_ | _boat_ |
     | _lany_ | _Malibu Nights_|
