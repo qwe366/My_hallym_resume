@@ -113,10 +113,9 @@
     ```
 
   - 데이터 분석 
+   ![data_anal1](data_anal1.png)
 
-     ![data_anayl](data.png)
-      ![dodge1](dodge1.png)
-
+    
   - 모델
 
     > [Stochastic Gradient Descent(SGD)](https://go-hard.tistory.com/11
@@ -145,6 +144,31 @@
 
   - ERROR ANALYSIS (RANDOM FOREST CLASSIFIER 로 한 결과)
 
-
      ![random_anal](analy1.png)
+
+     ---
+
+
+- ### __'Latex'__ (인공지능 수학)
+    - 프로젝트 목적
+        ```
+        수학 기호, 수학 공식 등 쉽게 수식을 작성할 수 있기 위함
+    - Over Leaf :leaves:
+
+        > [Over Leaf](ko.overleaf.com)  _latex편집기_
+
+    - 코드
+    ![latex](latex.png)
+
+        ```
+        ex) 
+        \begin{align*}
+        \text{행렬 $A$의 column개수는 2, 행렬 $B$의 row개수는 2이므로, 곱할 수 있다. 따라서,}
+        \end{align*}
+        
+        \begin{align*}
+        C &= AB\in\mathbb{R}^{2\times 2} \\
+        C_{ij} &= \sum_{k=1}^n A_{ik}B_{kj} \quad\text{(i와 j는 고정수이다.)}\\
+        \text{정의에 의해서, $C$ 즉}\quad AB &= \begin{bmatrix} 3 & 4 \\ 7 & 10\end{bmatrix}
+        \end{align*}
 
