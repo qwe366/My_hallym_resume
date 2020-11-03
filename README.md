@@ -1,9 +1,9 @@
 # Hi there :blue_heart:
 
-## welcome :exclamation: I'm So young....
+## welcome :exclamation: I'm So young.... :wink:
 
 ---
-- __Name__ : Yoon So young 
+- __Name__ : Yoon So young (20175321)
 - __Age__ : 23 (Korean age)
 - __Email__ : wowgoodbetter@gmail.com
 - __Hobby__ : 음악듣기:headphones:
@@ -62,7 +62,8 @@
 
 ## My Projects.. :books:
 
-- __'Dodge'__ (VR/AR/게임제작기초)
+- ### __'Dodge'__ (VR/AR/게임제작기초)
+
    - 프로젝트 설명
 
      ```
@@ -90,14 +91,57 @@
 
   - 프로젝트 중요 내용
     ```
-    - Trigger Coliider 
+    - Trigger Colliider 
+       : 충돌한 물체를 밀어내는 물리적인 표면이 없음, 충돌자체는 감지
     - Prefab
+       : 여러 컴포넌트로 이미 구성이 완성 된, 재사용 가능한 게임 오브젝트
     - Instantiate
+       : 게임 도중에 실시간으로 오브젝트를 생성할 때 사용
     - ...
   - 프로젝트 결과  
 
     ![dodge1](dodge1.png)
     ![dodge2](dodge2.png)
 
+---
 
+- ### __'Fashion Mnist'__ (머신러닝)
+  - 프로젝트 목적
+     ```
+     Fashion Mnist 데이터를 사용해서  SGDClassifier, SVC, RandomForestClassifier 의
+    분류기들의 성능을 계산 후, 가장 성능이 좋은 분류기 분석
+    ```
+
+  - 데이터 분석 
+     ![data_anayl](data.png)
+
+  - 모델
+
+    > [Stochastic Gradient Descent(SGD)](https://go-hard.tistory.com/11
+)
+   _확률적 경사하강법_
+
+    > [support vector machine (SVM)](https://m.blog.naver.com/PostView.nhn?blogId=slykid&logNo=221630584607&proxyReferer=https:%2F%2Fwww.google.com%2F
+)
+        _서포트 벡터 머신_
+    > [RandomForestClassifier](https://eunsukimme.github.io/ml/2019/11/26/Random-Forest/) _랜덤포레스트_
+    
+ 
+  - 성능 평가 정확도 비교
+  
+
+    | MODEL | SCORES | MEAN    |
+    | -------------| --------|--------|
+    | _SGD_ | _0.7844_ / 0.7897 / 0.7987  | __0.7910__
+    | _SVC_ | _0.7844_ / 0.8168/ 0.8198 |__0.8070__
+    | _RANDOM FOREST_ |0.8113/ 0.8108/0.8108|__0.8109__
+
+
+
+    `" RANDOM FOREST CLASSIFIER 가 가장 평균이 높게 나옴"` 
+
+
+  - ERROR ANALYSIS (RANDOM FOREST CLASSIFIER 로 한 결과)
+
+     ![random_anal](anal.png)
 
